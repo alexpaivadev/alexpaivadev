@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com Gestão e Analise de Dados para tomada de Decisão na Eleven Proteção Veicular
 - 🌱 Estou cursando o MBA em Business Intelligence & Analytics 360 da Xperiun
-- 📫 Me contate no email: oficial.alexpaiva@gmail.com
+- 📫 Me contate no email: contato@alexpaiva.dev
 - 😄 Pronouns: ele/dele
 
   <div style="display: inline_block"><br>
