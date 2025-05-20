@@ -25,7 +25,7 @@
   <img align="center" alt="Alex-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Alex-SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg"> <a href="https://powerbi.microsoft.com/" target="_blank"><img align="center" alt="Alex-PowerBI" height="40" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
   <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank"><img align="center" alt="Alex-Excel" height="40" src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"></a>
-  <a href="https://n8n.io/" target="_blank" rel="noopener noreferrer"><img align="center" alt="Alex-n8n" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg"></a>
+
   <br/><br/>
   <p align="left"><strong>Outras tecnologias com que tenho familiaridade:</strong></p>
   <img align="center" alt="Alex-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
