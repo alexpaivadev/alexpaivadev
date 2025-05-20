@@ -33,9 +33,3 @@
   <img align="center" alt="Alex-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alex-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
-
----
-
-### 🚀 Meus Projetos e Contribuições:
-
-*(Aqui você pode adicionar links para seus repositórios de projetos de análise de dados, dashboards públicos no Power BI, scripts Python, etc. Ex: "Confira meu projeto de análise de vendas usando Python e SQL aqui: [link]")*
